@@ -1,6 +1,3 @@
-# ShapeAI_Yuvraj_Singh_Kiraula
-Basic Python and Deep learning 7-days hands on Bootcamp
-
 # SHAPEAI PYTHON AND DEEP LEARNING BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
